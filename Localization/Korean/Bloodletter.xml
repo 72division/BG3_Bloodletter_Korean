@@ -9,26 +9,53 @@
 	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">해부학자</content>
 	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 중인 적을 공격 시 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 받으며 의학 스킬 전문가를 획득합니다.</content>
 	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">안구 해부</content>
-	<content contentuid="he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2" version="1">해부학적 지식을 활용하여 죽은 언데드의 안구을 해부합니다.</content>
+	<content contentuid="he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2" version="1">해부학적 지식을 활용하여 적의 안구을 해부합니다.</content>
 	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">대뇌 해부</content>
-	<content contentuid="hdb794390g6356g4b57g905cgf4c00b5f1b76" version="1">해부학적 지식을 활용하여 죽은 언데드의 대뇌를 해부합니다.</content>
+	<content contentuid="hdb794390g6356g4b57g905cgf4c00b5f1b76" version="1">해부학적 지식을 활용하여 적의 대뇌를 해부합니다.</content>
 	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">성대 해부</content>
-	<content contentuid="h2f714153g2180g4984gb571g588e1d4db670" version="1">해부학적 지식을 활용하여 죽은 언데드의 눈을 해부합니다.</content>
+	<content contentuid="h2f714153g2180g4984gb571g588e1d4db670" version="1">해부학적 지식을 활용하여 적의 해부합니다.</content>
 	<content contentuid="hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8" version="1">혈액 투척</content>
-	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">대상 지점에 혈액 병을 던져 피로 덮인 지역을 생성합니다. 범위 내의 캐릭터는 &lt;LSTag Type="Status" Tooltip="WET"&gt;젖은&lt;/LSTag&gt; 상태가 됩니다.</content>
+	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">대상 지점에 혈액 병을 던져 피로 덮인 지역을 생성합니다. 범위 내의 캐릭터는 &lt;LSTag Type="Status" Tooltip="BLOODY_WET"&gt;피에 젖은&lt;/LSTag&gt; 상태가 됩니다.</content>
 	<content contentuid="hbbfeba37g414eg4e80g9454g574383b73261" version="1">사혈</content>
-	<content contentuid="h17b5623cg793ag4dd8g91f6gae8b05201c77" version="1">의도적으로 대상의 피를 배출시킵니다. 대상이 적대적일 경우 &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 을 유발합니다. 아군일 경우 독, 질병, 실명, 기절을 제거합니다.</content>
+	<content contentuid="h17b5623cg793ag4dd8g91f6gae8b05201c77" version="1">의도적으로 대상의 피를 배출시킵니다. 대상이 적대적일 경우 &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt;과 &lt;LSTag Type="Status" Tooltip="SEVERE_BLEEDING_BLOODLETTER"&gt;과다 출혈&lt;/LSTag&gt;을 유발합니다. 아군일 경우 독, 질병, 실명, 기절을 제거하고 치유합니다.</content>
 	<content contentuid="hd53766c4gaeafg40feg8491g79a03eba4f7b" version="1">Melt into Blood(to be removed) </content>
 	<content contentuid="h3f19ebd0g798eg47c0gaa8cg89da8afeca73" version="1">Invisible for one turn if you are on blood surface.</content>
 	<content contentuid="h59913ddcgf289g476fg95e5gacb9763ab8ca" version="1">방혈 타격</content>
 	<content contentuid="h51a3d174gbca4g4a1cg83c6gefd01be7ca46" version="1">암습 후에 적을 근접 공격하여 [1]를 추가로 주고 &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt;을 유발합니다.</content>
 	<content contentuid="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="1">피의 정수 : [3]</content>
 	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="1">피의 정수 [3]개가 주어집니다. 블러드레터 기술 사용 시 소모됩니다. &lt;LSTag Tooltip="ShortRest"&gt;짧은 휴식&lt;/LSTag&gt;이나 &lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt; 을 취하면 회복됩니다.</content>
-	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">언데드 부검</content>
-	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">언데드 대상에게 특정 부위를 해부하는 공격을 수행하여 [1]를 추가로 줍니다. 이 공격은 암습으로 취급됩니다.</content>
+	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">부검</content>
+	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">인간형 혹은 언데드 대상에게 특정 부위를 해부하는 공격을 수행하여 [1]를 추가로 줍니다. 이 공격은 암습으로 취급됩니다.</content>
 	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">사망 선고</content>
-	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">체력이 25% 이하인 부상 당한 대상에게 임박한 종말을 선언합니다.</content>
+	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">체력이 절반 이하인 부상 당한 대상에게 임박한 종말을 선언합니다.</content>
 	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">On Miss : Does not spend Blood Essence</content>
 	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">내성 굴림 성공시에도 절반의 피해를 받습니다.</content>
+	<content contentuid="he4342ed9g2b6dg4d07gaa91g82482eb2874b" version="1">과다 출혈</content>
+	<content contentuid="h0cceeab0gf30fg40degbb21g998d8199e50b" version="1">턴 시작 시 [1] 를 받고 치유를 받지 못합니다.</content>
+	<content contentuid="h2c6044a9g1e74g4b6ag9649g90192db9a7b0" version="1">%%% Excessvie Bleeding damage</content>
+	<content contentuid="h64094245gc7feg45c9gb49ege62e4d820012" version="1">피의 추적자 오라</content>
+	<content contentuid="he687acafg45e9g4ddfg8b3eg5c2ce759ee21" version="1">피를 밟고 있는 적을 추적하여 표시합니다. 투명화 중인 적을 드러낼 수 있습니다. 대상을 공격 시 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 받습니다.</content>
+	<content contentuid="h707bff99gf714g4d8dga4eeg87fbd72eae53" version="1">추적 당함</content>
+	<content contentuid="hf742d0d0g8db6g45aegb22fg5c290e55303f" version="1">이 대상은 피 웅덩이 위에 서 있으며 추적 중입니다.</content>
+	<content contentuid="h808ab747g0da4g46d4gabd4g0ada75afbd0d" version="1">혈액 오염</content>
+	<content contentuid="h72622bfeg60d6g4491ga903g4dd57f18298f" version="1">주변의 피를 오염시켜, 피를 밟고있는 적에게 [1] 를 줍니다. &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 중이거나 &lt;LSTag Type="Status" Tooltip="SEVERE_BLEEDING_BLOODLETTER"&gt;과다 출혈&lt;/LSTag&gt; 중인 적은 [2] 를 추가로 입고 내성굴림 실패 시 &lt;LSTag Type="Status" Tooltip="POISON_BLOOD_CORRUPTION_BLOODLETTER"&gt;오염된 피&lt;/LSTag&gt;를 부여합니다.</content>
+	<content contentuid="h2cfaad23g440ag48e0gb906g065bcaff26f2" version="1">오염된 피</content>
+	<content contentuid="hf8dd15f8g81f8g4f52gbc54gbcdf631cbd58" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;공격 명중&lt;/LSTag&gt;과 &lt;LSTag Tooltip="AbilityCheck"&gt;능력치&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;에 &lt;LSTag Tooltip="Disadvantage"&gt;불리 보정&lt;/LSTag&gt;을 받으며 [1]를 받습니다.</content>
+	<content contentuid="hcdad3dedg6fb2g4d10g9543g0ff1f91ae9a3" version="1">선취점</content>
+	<content contentuid="hf3370b56g6516g4364gb276ge060eab16c4c" version="1">체력이 최대치인 적을 타격 시 주변에 피를 뿌립니다.</content>
+	<content contentuid="hbee4faecg72d1g4ad5ga0c3gfdc003800ada" version="1">피에 젖음</content>
+	<content contentuid="hc52391fag4f7dg41c7gbce9gaf09b2179980" version="1">&lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태가 되지 않습니다. 화염 피해에 &lt;LSTag Tooltip="Resistant"&gt;저항&lt;/LSTag&gt;을 얻지만 사령과 번개, 냉기 피해에 &lt;LSTag Tooltip="Vulnerable"&gt;취약&lt;/LSTag&gt;합니다.</content>
+	<content contentuid="hd4edd9cdg9dfeg4efdg9150g0ad9eafccda2" version="1">피의 의식</content>
+	<content contentuid="h064f9d8dg8843g4ddcg808agda78d348bb07" version="1">현재 체력의 절반을 희생하여 &lt;LSTag Type="Status" Tooltip="BLOODLUST_BLOODLETTER"&gt;피의 공물&lt;/LSTag&gt; 상태가 됩니다.</content>
+	<content contentuid="haa9feee7g884bg4570gbdc9gf42af189879e" version="1">피의 수확자</content>
+	<content contentuid="h82cad372g6560g47c5ga219gafff8b283d88" version="1">바닥의 피를 수확하여 &lt;LSTag Tooltip="ProficiencyBonus"&gt;숙련도&lt;/LSTag&gt; 만큼의 체력을 회복합니다.</content>
+	<content contentuid="hca68a751ge9aeg4358gbc74gead4c0cf5b4e" version="1">피의 공물</content>
+	<content contentuid="h6106b207g1bcfg44e3gb238ge5f8e5ab7602" version="1">매 턴 &lt;LSTag Tooltip="Action"&gt;행동력&lt;/LSTag&gt;이 추가됩니다. 공격을 적을 살해할 경우 1개의 피의 정수를 회복하고 체력을 회복합니다.</content>
+	<content contentuid="hf0ff7ba5gc295g4388ga173gf7a259394340" version="1">피의 추적자 오라</content>
+	<content contentuid="hdb9d8727geaf2g4bd7ga3a9g09f6c95a3ac9" version="1">피를 밟고 있는 적을 추적하여 표시합니다. 투명화 중인 적을 드러낼 수 있습니다. 대상을 공격 시 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 받습니다.</content>
+	<content contentuid="h37e71d4cg797eg4fb6g8081g4398a7c8c8cc" version="1">외과 의사의 정밀함</content>
+	<content contentuid="h56d14886g9ebcg4ef8g97fdg73cc1abb216e" version="1">피의 추적자 오라, 혹은 해부학자 효과가 적용되는 적을 공격 시 상처 부위를 노려 [1] 를 추가적으로 줍니다.</content>
+
+
 
 </contentList>
